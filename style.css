@@ -1,0 +1,9 @@
+#background2
+{
+ padding-top: 75px;
+ padding-bottom: 50px;
+ text-align: center;
+ color: #31708f;
+ background: url(Images/back.jpg) no-repeat center center;
+ background-size: cover; 
+ }   
